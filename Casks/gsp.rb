@@ -1,6 +1,6 @@
 cask "gsp" do
-  version "0.2.0"
-  sha256 "331c33200be0742b5c78be0de3ced5a23cfe88665df4190a62080bb58cd9adf3"
+  version "0.2.1"
+  sha256 "65ede67fa31246c147383a8f68228a0dd9f631bc2e1148e0568ad061ce8a81c7"
 
   url "https://github.com/gitosphere/gsp/releases/download/#{version}/gsp-#{version}-macos-arm64.dmg"
   name "Gitosphere CLI"
